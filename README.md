@@ -1,12 +1,12 @@
 <h1 align="center">TG Direct Link Generator</h3>
 <p align="center">
   <a href="https://github.com/TechShreyash/TG-Direct-Link-Generator">
-    <img src="https://socialify.git.ci/TechShreyash/TG-Direct-Link-Generator/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="TG-Direct-Link-Generator" width="640" height="320" />
+    <img src="https://socialify.git.ci/ayankit/telegram-dl/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="TG-Direct-Link-Generator" width="640" height="320" />
   </a>
   <p align="center">
-    A Telegram Bot To Get Direct Links Of Telegram Files.<br/>
-    <a href="http://telegram.me/TGDirectLinkGenBot"><strong>Demo Bot</strong></a>
-    <br />    
+    A Telegram Bot to generate direct download links of Telegram files<br/>
+    <a href="http://telegram.me/DLGenerateBot"><strong>Demo Bot</strong></a>
+    <br/>
   </p>
 </p>
 
@@ -41,17 +41,13 @@
 ## About This Bot
 
 <p align="center">
-    <a herf="https://github.com/TechShreyash/TG-Direct-Link-Generator">
+    <a herf="https://github.com/ayankit/telegram-dl">
         <img src="https://telegra.ph/file/4d124400b985b2fe6ee1c.jpg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
 <p align='center'>
     This bot will give you stream links for Telegram files without the need of waiting till the download completes
 </p>
-
-### Original Repository
-
-The main working part was taken from [TG-Direct-Link-Generator](https://github.com/DeekshithSH/TG-Direct-Link-Generator).
 
 ## How to make your own
 
